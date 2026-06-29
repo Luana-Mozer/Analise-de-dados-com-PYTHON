@@ -1,9 +1,0 @@
-Finalizei mais um projeto de estudos, dessa vez focado em analise de dados com Python.
-
-Trabalhei com uma base de cancelamento de clientes e usei Pandas para tratar os dados, analisar os cancelamentos e entender quais fatores poderiam estar relacionados a esse comportamento.
-
-Durante a analise, observei pontos como tipo de contrato, quantidade de ligacoes para o call center e dias de atraso. Depois, usei graficos com Plotly para visualizar melhor os dados e testar alguns filtros que ajudaram a reduzir a taxa de cancelamento na base analisada.
-
-Foi um projeto importante para praticar limpeza de dados, analise exploratoria e interpretacao de informacoes para apoiar decisoes.
-
-Repositorio: https://github.com/Luana-Mozer/Analise-de-dados-com-PYTHON
